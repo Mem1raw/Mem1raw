@@ -1,21 +1,23 @@
 # Hi there, I'm [Mustafa Emirhan Yılmaz] 👋
 
-I am a software developer with a strong foundation in mobile app development, currently on a dedicated journey to specialize in Machine Learning and Deep Learning. I love building clean, user-centric applications and making them smarter with data.
+I am a student and an aspiring Data Scientist / ML Engineer. My primary career focus is on Machine Learning and Deep Learning, specifically diving into data manipulation, data analysis, and computer vision (like object detection). 
 
-## 🎯 My Ultimate Goal
-My main focus is to master ML/DL technologies and bridge the gap between intelligent algorithms and seamless mobile experiences.
+While my professional goal is to build intelligent systems and algorithms, I also enjoy developing clean, user-centric mobile applications as a passionate hobby.
 
-## 🚀 Current Focus & Projects
+## 🎯 Primary Focus: Machine Learning & Data Science
 
-* 🤖 **Machine Learning:** Actively studying ML concepts, data manipulation, and classification models. I document all my progress, Python scripts, and practice codes in my [ml-learning](https://github.com/Mem1raw/ml-learning) repository.
-* 📱 **Routine Tracker App (WIP):** Simultaneously developing a new habit-tracking mobile application with Flutter. Focusing heavily on clean UI/UX, custom icon organization, and flexible state management.
-
-## 🏆 Released Projects
-
-* 📈 **[Trackzen](https://play.google.com/store/apps/details?id=com.trackzen.app&hl=tr):** A privacy-first, offline-capable crypto trading journal. I learned Flutter specifically from scratch just to bring this project to life! It operates with zero API connections to ensure maximum data security and is currently live on the Google Play Store.
+* **Continuous Learning:** Actively studying ML concepts, from data cleaning to building classification models.
+* **Practice & Code:** I document my Python scripts, data manipulation exercises, and model training progress in my [ml-learning](https://github.com/Mem1raw/ml-learning) repository.
+* **Future Goals:** Deepening my knowledge in Deep Learning architectures and Computer Vision (Object Detection) to solve real-world problems.
 
 ## 🛠️ Tech Stack & Tools
 
-* **Data Science & ML:** Python, scikit-learn, pandas, joblib, matplotlib
-* **Mobile Development:** Flutter, Dart, Firebase, Hive
-* **Tools & IDEs:** PyCharm, VS Code, Git
+* **Machine Learning & Data:** Python, pandas, scikit-learn, joblib, matplotlib
+* **Mobile Development (Hobby):** Flutter, Dart, Firebase, Hive
+* **Tools:** PyCharm, VS Code, Git
+
+## 📱 Hobby Projects (Mobile Development)
+
+As a creative outlet, I design and build mobile apps from scratch:
+* 📈 **[Trackzen](https://play.google.com/store/apps/details?id=com.trackzen.app&hl=tr):** A privacy-first, offline-capable crypto trading journal developed with Flutter and currently live on the Google Play Store.
+* 📅 **Routine Tracker:** Currently building a new habit-tracking application focusing on clean UI/UX and customizable routines.
