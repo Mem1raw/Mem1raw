@@ -15,9 +15,3 @@ While my professional goal is to build intelligent systems and algorithms, I als
 * **Machine Learning & Data:** Python, pandas, scikit-learn, joblib, matplotlib
 * **Mobile Development (Hobby):** Flutter, Dart, Firebase, Hive
 * **Tools:** PyCharm, VS Code, Git
-
-## 📱 Hobby Projects (Mobile Development)
-
-As a creative outlet, I design and build mobile apps from scratch:
-* 📈 **[Trackzen](https://play.google.com/store/apps/details?id=com.trackzen.app&hl=tr):** A privacy-first, offline-capable crypto trading journal developed with Flutter and currently live on the Google Play Store.
-* 📅 **Routine Tracker:** Currently building a new habit-tracking application focusing on clean UI/UX and customizable routines.
